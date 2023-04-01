@@ -1,0 +1,28 @@
+
+  .LeftConatiner {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    text-align: center;
+  }
+  .title {
+    width: 40vw;
+    margin-top: 35vh;
+    margin-left: 7vw;
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+    color: white;
+    letter-spacing: 0.025em;
+    line-height: 99.19%;
+  }
+  .paragraph {
+    width: 35vw;
+    margin-top: 5vh;
+    margin-left: 7vw;
+    color: white;
+    line-height: 25px;
+    letter-spacing: 0.018em;
+    font-style: normal;
+  }
