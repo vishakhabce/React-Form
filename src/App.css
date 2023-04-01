@@ -2,11 +2,12 @@
   padding: 0px;
   margin: 0px;
   font-family: sans-serif;
-  background-color: #78aeff;
 }
 .MainContainer {
   display: flex;
   flex-direction: column;
   width: 100vw;
   height: 100vh;
+  background-color: #78aeff;
 }
+
